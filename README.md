@@ -79,3 +79,12 @@ When the package is updated upstream, update it in your environment:
 ```shell
 pip install --upgrade git+ssh://github.com/datfus/o2eadp-2025-<YOURNAME>.git
 ```
+
+## Example notebooks
+
+The repository contains a few example notebooks that showcase the different methods and libraries discussed in the course and test the functionality of the environment.
+
+### 01-fitting
+
+[`examples/01-fitting/01-01-linear_regression.ipynb`](examples/01-fitting/01-01-linear_regression.ipynb) notebook shows how to do linear regression and uncertainty quantification with different methods and libraries. It's a long notebook primarily intended to test the functionality of the environment, but you can use it to get an overview and basic usage of the different methods and libraries.
+
