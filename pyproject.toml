@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
 cherab = "^1.5.0"
-cherab-solps = {git = "https://github.com/cherab/solps.git", rev = "development"}
 numpy = "<2.0"
 scipy = "^1.15.2"
 xarray = "^2025.1.2"
